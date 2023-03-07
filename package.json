@@ -1,0 +1,19 @@
+{
+  "name": "my_express_server",
+  "version": "1.0.0",
+  "description": "buiding_my_first_server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "server",
+    "express"
+  ],
+  "author": "srt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
